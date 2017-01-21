@@ -1,5 +1,5 @@
 # ColorPicker
-A windows form application to get color below our cursor pointer
+A windows form application to get color below cursor pointer.
 
 ##How to use 
 
