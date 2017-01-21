@@ -1,0 +1,16 @@
+D:\BSCS\Semester 5\ColorPicker\bin\Debug\ColorPicker.exe
+D:\BSCS\Semester 5\ColorPicker\bin\Debug\ColorPicker.pdb
+D:\BSCS\Semester 5\ColorPicker\obj\Debug\ResolveAssemblyReference.cache
+D:\BSCS\Semester 5\ColorPicker\obj\Debug\ColorPicker.Form1.resources
+D:\BSCS\Semester 5\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+D:\BSCS\Semester 5\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.Cache
+D:\BSCS\Semester 5\ColorPicker\obj\Debug\ColorPicker.exe
+D:\BSCS\Semester 5\ColorPicker\obj\Debug\ColorPicker.pdb
+D:\BSCS\Projects\Color Picker\obj\Debug\ColorPicker.exe
+D:\BSCS\Projects\Color Picker\obj\Debug\ColorPicker.pdb
+D:\BSCS\Projects\Color Picker\bin\Debug\ColorPicker.exe
+D:\BSCS\Projects\Color Picker\bin\Debug\ColorPicker.pdb
+D:\BSCS\Projects\Color Picker\obj\Debug\ColorPicker.Form1.resources
+D:\BSCS\Projects\Color Picker\obj\Debug\ColorPicker.Properties.Resources.resources
+D:\BSCS\Projects\Color Picker\obj\Debug\ColorPicker.csproj.GenerateResource.Cache
+D:\BSCS\Projects\Color Picker\obj\Debug\ColorPicker.csprojResolveAssemblyReference.cache
